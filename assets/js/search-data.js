@@ -429,7 +429,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-are-organizing-the-2nd-workshop-on-video-understanding-and-its-application-vua-at-bmvc-2024",
+            },},{id: "news-our-paper-coleaf-is-accepted-at-eccv-2024",
+          title: 'Our paper `CoLeaF’ is accepted at ECCV-2024',
+          description: "",
+          section: "News",},{id: "news-we-are-organizing-the-2nd-workshop-on-video-understanding-and-its-application-vua-at-bmvc-2024",
           title: 'We are organizing the 2nd workshop on Video Understanding and Its Application (VUA)...',
           description: "",
           section: "News",},{id: "news-our-paper-narrativebridge-is-accepted-at-iclr-2025",
