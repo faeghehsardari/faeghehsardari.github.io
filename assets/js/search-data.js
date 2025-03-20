@@ -437,8 +437,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
-          title: '% A simple inline announcement with Markdown emoji! :sparkles: :smile: We secured a...',
+            },},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
+          title: 'We secured a £50K grant (50% funded by EPSRC and 50% by Tesco)...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
