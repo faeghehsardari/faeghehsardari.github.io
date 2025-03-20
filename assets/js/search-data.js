@@ -429,12 +429,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-we-are-organizing-the-2nd-workshop-on-video-understanding-and-its-application-vua-at-bmvc-2024",
+          title: 'We are organizing the 2nd workshop on Video Understanding and Its Application (VUA)...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-narrativebridge-is-accepted-at-iclr-2025",
+          section: "News",},{id: "news-our-paper-narrativebridge-is-accepted-at-iclr-2025",
           title: 'Our paper `NarrativeBridge’ is accepted at ICLR-2025.',
           description: "",
           section: "News",},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
