@@ -12,7 +12,7 @@ profile:
     <p>Room 05BB00</p>
     <p>University of Surrey, Alan Turing Building</p>
     <p>Surrey, Guildford, UK</p>
-    <p>Email:f.sardari@surrey.ac.uk</p>
+    <p>Email: f.sardari@surrey.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
