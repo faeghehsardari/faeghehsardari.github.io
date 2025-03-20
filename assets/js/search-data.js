@@ -429,15 +429,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
+            },},{id: "news-our-paper-narrativebridge-is-accepted-at-iclr-2025",
+          title: 'Our paper `NarrativeBridge’ is accepted at ICLR-2025.',
+          description: "",
+          section: "News",},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
           title: 'We secured a £50K grant (50% funded by EPSRC and 50% by Tesco)...',
           description: "",
           section: "News",},{id: "projects-project-1",
