@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.surrey.ac.uk/'>University of Surrey</a>. Email:f.sardari@surrey.ac.uk
+subtitle: Ph.D., M.Sc., B.Sc. 
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>Room 05BB00</p>
     <p>University of Surrey, Alan Turing Building</p>
     <p>Surrey, Guildford, UK</p>
+    <p>Email:f.sardari@surrey.ac.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
