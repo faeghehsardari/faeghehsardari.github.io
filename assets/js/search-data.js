@@ -40,12 +40,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
           title: 'We secured a £50K grant (50% funded by EPSRC and 50% by Tesco)...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
