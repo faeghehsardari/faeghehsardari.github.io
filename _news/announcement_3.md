@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We secured a £50K grant (50% funded by EPSRC and 50% by [Tesco](https://en.wikipedia.org/wiki/Tesco)) to advance video understanding for retail.
+We secured a £100K grant (50% funded by EPSRC and 50% by [Tesco](https://en.wikipedia.org/wiki/Tesco)) to advance video understanding for retail.
