@@ -32,8 +32,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-narrativebridge-is-accepted-at-iclr-2025",
           title: 'Our paper `NarrativeBridge’ is accepted at ICLR-2025.',
           description: "",
-          section: "News",},{id: "news-we-secured-a-50k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
-          title: 'We secured a £50K grant (50% funded by EPSRC and 50% by Tesco)...',
+          section: "News",},{id: "news-we-secured-a-100k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
+          title: 'We secured a £100K grant (50% funded by EPSRC and 50% by Tesco)...',
           description: "",
           section: "News",},{
         id: 'social-email',
