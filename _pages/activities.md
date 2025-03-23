@@ -2,8 +2,7 @@
 layout: page
 permalink: /activities/
 title: Activities
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 6
 ---
 
