@@ -1,12 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /awards/
+title: Awards
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+  <li>Outstanding reviewer, BMVC, 2021</li> 
+  <li>Full-funded international Ph.D. scholarship, University of Bristol, UK</li>
+  <ul>
+    <li>o	One of two recipients selected from 500+ applicants for the most prestigious scholarship</li>
+  </ul>
+  <li><b>Reviewer</b> at CVPR, ECCV, BMVC, IET Computer Vision, IEEE Transactions on Image Processing.</li>
+</ul>
