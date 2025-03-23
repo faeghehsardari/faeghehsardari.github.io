@@ -8,7 +8,7 @@ nav_order: 6
 
 <ul>
   <li>Outstanding reviewer, BMVC, 2021</li> 
-  <li>Full-funded international Ph.D. scholarship, University of Bristol, UK, 2017</li>
+  <li>Full-funded international Ph.D. scholarship, University of Bristol, Bristol, UK, 2017</li>
   <ul>
     <li>One of two recipients selected from 500+ applicants for the most prestigious scholarship</li>
   </ul>
