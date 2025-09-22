@@ -376,7 +376,7 @@ ninja.data = [{
           title: 'I am joining Microsoft as a Senior Applied Scientist',
           description: "",
           section: "News",},{id: "news-i-have-joined-microsoft-as-a-senior-applied-scientist",
-          title: 'I have joined Microsoft as a Senior Applied Scientist',
+          title: 'I have joined Microsoft as a Senior Applied Scientist.',
           description: "",
           section: "News",},{
         id: 'social-email',
