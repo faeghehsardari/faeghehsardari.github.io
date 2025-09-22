@@ -372,6 +372,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-secured-a-100k-grant-50-funded-by-epsrc-and-50-by-tesco-to-advance-video-understanding-for-retail",
           title: 'We secured a £100K grant (50% funded by EPSRC and 50% by Tesco)...',
           description: "",
+          section: "News",},{id: "news-i-am-joining-microsoft-as-a-senior-applied-scientist",
+          title: 'I am joining Microsoft as a Senior Applied Scientist',
+          description: "",
+          section: "News",},{id: "news-i-am-joining-microsoft-as-a-senior-applied-scientist",
+          title: 'I am joining Microsoft as a Senior Applied Scientist',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
