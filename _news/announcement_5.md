@@ -6,6 +6,7 @@ related_posts: false
 ---
 
 
-I have joined Microsoft as a Senior Applied Scientist
+I have joined Microsoft as a Senior Scientist.
+
 
 
