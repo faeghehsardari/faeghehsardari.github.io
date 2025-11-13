@@ -9,5 +9,5 @@ nav_order: 6
 <ul>
   <li><b>Lead organizer</b> of the 2nd workshop on Video Understanding and its Applications <a href="https://vua-bmvc.github.io/2024/">(VUA)</a> at BMVC, 2024, Glasgow, UK.</li>
   <li><b>Lead organizer</b> of the 1st workshop on Video Understanding and its Applications <a href="https://vua-bmvc.github.io/2024/">(VUA)</a> at BMVC, 2023, Aberdeen, UK.</li>
-  <li><b>Reviewer</b> at CVPR, ECCV, BMVC, IET Computer Vision, IEEE Transactions on Image Processing.</li>
+  <li><b>Reviewer</b> at CVPR, ECCV, ICLR, BMVC, IET Computer Vision, IEEE Transactions on Image Processing.</li>
 </ul>
