@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello. Thanks for visiting my webpage! My name is Faegheh (Fay). If you’re not familiar with this name, don’t worry—it’s a rare Persian name meaning “superior” or “distinguished,” which fits someone passionate about pushing the boundaries of AI. 
+Hello. Thanks for visiting my webpage! My name is Faegheh (Fay). If you’re not familiar with this name, don’t worry—it’s a rare Persian name meaning “superior” or “distinguished”.
 
 I’m a Senior Scientist at [Microsoft](https://www.microsoft.com/en-gb), where I focus on developing small multimodal foundation models for Copilot+. Prior to that, I was a Postdoctoral Research Fellow at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, working with [Prof. Adrian Hilton](https://www.surrey.ac.uk/people/adrian-hilton) on [AI4me](https://ai4me.surrey.ac.uk/index.html) project, a partnership project between the University of Surrey and Lancaster University to leverage AI for personalised media production. 
 
