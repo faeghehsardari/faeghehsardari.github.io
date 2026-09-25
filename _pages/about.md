@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ASG Office</p>
-    <p>Microsoft Campus</p>
-    <p>Thames Valley Park</p>
+    <p>ASG Office,</p>
+    <p>Microsoft Campus,</p>
+    <p>Thames Valley Park,</p>
     <p>Reading, England, UK</p>
     <p>Email: fsardari(@)microsoft(dot)com</p>
 
