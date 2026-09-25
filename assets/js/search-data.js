@@ -375,6 +375,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-microsoft-as-a-senior-scientist",
           title: 'I joined Microsoft as a Senior Scientist.',
           description: "",
+          section: "News",},{id: "news-our-paper-docslm-is-accepted-at-cvpr-2026-findings",
+          title: 'Our paper `DocSLM’ is accepted at CVPR-2026, Findings.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
