@@ -13,7 +13,7 @@ profile:
     <p>Microsoft Campus</p>
     <p>Thames Valley Park</p>
     <p>Reading, England, UK</p>
-    <p>Email: f.sardari@microsoft.com</p>
+    <p>Email: fsardari(@)microsoft(dot)com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
