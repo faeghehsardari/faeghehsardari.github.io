@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper `Latent-Lens’ is accepted at NeurIPS-2026. 
+Our paper `Latent-Lens’ is accepted at NeurIPS-2026, main-track. 
