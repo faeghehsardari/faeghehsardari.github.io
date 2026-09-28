@@ -381,8 +381,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-docslm-is-accepted-at-cvpr-2026-findings",
           title: 'Our paper `DocSLM’ is accepted at CVPR-2026, Findings.',
           description: "",
-          section: "News",},{id: "news-our-paper-latent-lens-is-accepted-at-neurips-2026",
-          title: 'Our paper `Latent-Lens’ is accepted at NeurIPS-2026.',
+          section: "News",},{id: "news-our-paper-latent-lens-is-accepted-at-neurips-2026-main-track",
+          title: 'Our paper `Latent-Lens’ is accepted at NeurIPS-2026, main-track.',
           description: "",
           section: "News",},{
         id: 'social-email',
