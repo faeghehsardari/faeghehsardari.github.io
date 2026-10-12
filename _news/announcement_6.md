@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper `DocSLM’ is accepted at CVPR-2026, Findings.
+`DocSLM’ is accepted at CVPR-2026, Findings.
